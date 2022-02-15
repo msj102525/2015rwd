@@ -1,0 +1,16 @@
+/* footer */
+.footer {
+    
+}
+.footer .inner-footer {
+    display: flex;
+    justify-content: center;
+}
+.footer .inner-footer .fcon {
+    flex: 0 1 1400px;
+    background-color: rgb(95, 95, 95);
+    color: #fff;
+    line-height: 150px;
+    font-size: 30px;
+    text-align: center;
+}
